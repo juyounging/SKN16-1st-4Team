@@ -83,6 +83,20 @@ https://www.data.go.kr/data/15125089/fileData.do<br>
 # **ERD**
 <img width="1188" height="975" alt="Image" src="https://github.com/user-attachments/assets/57b7e9eb-1c7e-4798-8d4b-924ffedc20c3" />
 
+# 화면 설계서
+![ProjectMars_화면설계서_v 1 0_page-0001](https://github.com/user-attachments/assets/a2f6ff9a-2267-413a-9fa9-8ef4a7f04514)
+![ProjectMars_화면설계서_v 1 0_page-0002](https://github.com/user-attachments/assets/ef4b3199-16c3-408c-84a3-a1c0af8d3c26)
+![ProjectMars_화면설계서_v 1 0_page-0003](https://github.com/user-attachments/assets/c3c21ce7-c04e-4be2-bbe8-663a23e6e914)
+![ProjectMars_화면설계서_v 1 0_page-0004](https://github.com/user-attachments/assets/6fe49aad-9649-46d1-a6be-ba2f370aa9aa)
+![ProjectMars_화면설계서_v 1 0_page-0005](https://github.com/user-attachments/assets/397ad273-4e7f-40d5-9b6a-f60f6b928892)
+![ProjectMars_화면설계서_v 1 0_page-0006](https://github.com/user-attachments/assets/ad7bcb6a-5e4b-461a-b81f-57277cdb7b7e)
+![ProjectMars_화면설계서_v 1 0_page-0007](https://github.com/user-attachments/assets/9a392341-9cfe-42ba-8917-091095788d66)
+![ProjectMars_화면설계서_v 1 0_page-0008](https://github.com/user-attachments/assets/9736cdcc-f05f-422d-a396-8c423f18b277)
+![ProjectMars_화면설계서_v 1 0_page-0009](https://github.com/user-attachments/assets/dca6bfc9-3e35-44ee-aa9b-cf6aeb429dea)
+![ProjectMars_화면설계서_v 1 0_page-0010](https://github.com/user-attachments/assets/d2325ebf-c486-4dc8-8bdb-08f7f9e496c9)
+![ProjectMars_화면설계서_v 1 0_page-0011](https://github.com/user-attachments/assets/fe8bedd9-128c-4d70-9004-063ff3db6825)
+
+<br>
 
 # 💻 실제 화면
 <br>
