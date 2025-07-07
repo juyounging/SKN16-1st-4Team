@@ -66,7 +66,12 @@ SKN 16기 1차 단위프로젝트
 
 # 🛠 기술 스택
 <br>
-@@ -19,8 +74,38 @@ SKN 16기 1차 단위프로젝트
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
 # 🔍 수집 데이터
 <br>
 
@@ -134,7 +139,7 @@ https://www.data.go.kr/data/15125089/fileData.do<br>
 # 🖊 회고
 <br>
 
-| 이름 | 고찰 |
+| 이름 | 회고 |
 |---|---|
 | 문승현 | 이번 프로젝트는 혼자 하던 공부와 달리, 목적을 가지고 처음으로 진행한 팀 프로젝트라는 점에서 의미가 컸다. 처음엔 협업이 많이 어려울 줄 알았지만, 생각보다 원활하게 소통하며 맡은 역할에 책임감을 갖고 임했다. 다만, 일부 아쉬운 부분도 분명히 있었고 더 잘할 수 있었던 점들이 눈에 보였다. 다음 프로젝트에서는 이런 부분들을 보완하고 싶다. 나는 전기차와 충전기에 관련한 여러 데이터들을 기반으로 DB를 구축했고 또한 ERD 설계, 파이썬 코드 구현을 맡았다. 이론에서 배운 내용을 직접 기능을 구현해보며 실제로 적용해보는 소중한 경험을 할 수 있었다. |
 | 신희석 | 이번 프로젝트를 하게 되었을 때 다른 팀원들에게 방해가 될 것 같다는 두려움이 있었습니다. 키워드를 크롤링하는 것부터 히트맵을 만드는 역할을 할 때, 강의 때 배운 것들을 토대로 조금 더 응용해 봄으로 조금 더 성장할 수 있었던 것 같습니다. 스스로 공부해가며 결과물을 만들었을 때 뿌듯했습니다. 이론으로 실습으로 따라하던 것들을 스스로 처음부터 했을 때, 그리고 화면에 나타날 때 희열을 느꼈으며 더 많은 것들을 해보고 싶다는 생각이 들었습니다. 앞으로 오는 프로젝트에서는 조금 더 많이 성장해 프로젝트에 많은 기여를 하고 싶다는 생각이 들었습니다. |
