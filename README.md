@@ -1,7 +1,7 @@
-# SKN16-1st-4Team
+![image](https://github.com/user-attachments/assets/e898fe87-223d-495c-96ef-4c7bd8f48b2f)# SKN16-1st-4Team
 SKN 16기 1차 단위프로젝트
 <br>
-# 📌 프로젝트 소개
+# 📌 프로젝트 소개.
 <br>
 
 # 🫂 팀 소개
