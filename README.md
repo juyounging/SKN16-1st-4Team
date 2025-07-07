@@ -87,20 +87,34 @@ https://www.data.go.kr/data/15125089/fileData.do<br>
 # 💻 실제 화면
 <br>
 
-<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/c6c6df91-c662-415d-a59d-e6facdab97ba" />
-<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/bd1891cb-c573-4b1c-9e5a-b2eb2ca5cc02" />
-<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/3dd7b3d4-7441-4b9b-9e43-68f0677aa4e0" />
-<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/2862dfcf-75c3-4ad4-963c-4557bc3b00d9" />
-<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/696f1f11-6295-41ef-94d8-afec630c9399" />
-<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/8f4325ae-cdce-47f1-9a15-87bd9f403c0e" />
-<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/9b26f10c-3c15-4b8d-9181-fc1be30a94f0" />
-<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/95bf2be9-b26a-492e-b9c6-15c382a444a9" />
-<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/91231992-26a2-40fb-9a18-2fa2042b34c3" />
-<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/40599791-f833-4757-af00-bf5dd390ee6e" />
-<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/34deb4cb-2c60-4597-aa75-b3999918a035" />
-<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/4d115a2f-6a3c-4c98-b942-0d338d3987b9" />
-<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/965a2116-1608-4ffd-a682-c19fad061083" />
-<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/6a0746be-f432-4313-b127-5fc6b8455f5e" />
+## **커뮤니티 내 전기차 관련 주요 키워드 분석**<br>
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/40599791-f833-4757-af00-bf5dd390ee6e" /><br>
+## **전기차 충전소 현황 대시보드**<br>
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/34deb4cb-2c60-4597-aa75-b3999918a035" /><br>
+## **충전소 위치 지도**<br>
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/6a0746be-f432-4313-b127-5fc6b8455f5e" /><br>
+## **연도별 충전소 설치 현황**<br>
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/965a2116-1608-4ffd-a682-c19fad061083" /><br>
+## **시도별 충전소 현황**<br>
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/4d115a2f-6a3c-4c98-b942-0d338d3987b9" /><br>
+## **전국 전기차 수와 충전기 수 상관관계**<br>
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/bd1891cb-c573-4b1c-9e5a-b2eb2ca5cc02" /><br>
+## **지역별 전기차 vs 충전소 상관관계**<br>
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/3dd7b3d4-7441-4b9b-9e43-68f0677aa4e0" /><br>
+## **지역별 전기차 및 충전소 게이지도넛**<br>
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/2862dfcf-75c3-4ad4-963c-4557bc3b00d9" /><br>
+## **2024년 지역별 충전기당 전기차 수**<br>
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/696f1f11-6295-41ef-94d8-afec630c9399" /><br>
+## **지역별 전기차 비율 변화 추이**<br>
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/8f4325ae-cdce-47f1-9a15-87bd9f403c0e" /><br>
+## **지역별 전기차 비율 변화 추이 (제주 제외)**<br>
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/9b26f10c-3c15-4b8d-9181-fc1be30a94f0" /><br>
+## **지역별 충전기당 전기차 수 변화 추이**<br>
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/95bf2be9-b26a-492e-b9c6-15c382a444a9" /><br>
+## **지역별 충전기당 전기차 수 변화 추이 (경기 제외)**<br>
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/91231992-26a2-40fb-9a18-2fa2042b34c3" /><br>
+## **전기차 FAQ 검색**<br>
+<img width="1365" height="919" alt="Image" src="https://github.com/user-attachments/assets/c6c6df91-c662-415d-a59d-e6facdab97ba" /><br>
 
 # 🖊 회고
 <br>
