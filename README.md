@@ -26,7 +26,7 @@ SKN 16기 1차 단위프로젝트
 ---
 
 
-# 🫂 팀 소개
+# 👨‍👩‍👧‍👦 팀 소개
 <br>
 
 <table style="margin-left: auto; margin-right: auto;">
@@ -89,7 +89,7 @@ https://www.data.go.kr/data/15125089/fileData.do<br>
 # **ERD**
 <img width="1188" height="975" alt="Image" src="https://github.com/user-attachments/assets/57b7e9eb-1c7e-4798-8d4b-924ffedc20c3" />
 
-# 화면 설계서
+# 📝 화면 설계서
 ![ProjectMars_화면설계서_v 1 0_page-0001](https://github.com/user-attachments/assets/a2f6ff9a-2267-413a-9fa9-8ef4a7f04514)
 ![ProjectMars_화면설계서_v 1 0_page-0002](https://github.com/user-attachments/assets/ef4b3199-16c3-408c-84a3-a1c0af8d3c26)
 ![ProjectMars_화면설계서_v 1 0_page-0003](https://github.com/user-attachments/assets/c3c21ce7-c04e-4be2-bbe8-663a23e6e914)
